@@ -1,3 +1,3 @@
 # My Personal Style Preferences
 
-- [Rubocop](./blob/main/.rubocop.yml)
+- [Rubocop](https://github.com/Bodacious/style-guides/blob/main/.rubocop.yml)
